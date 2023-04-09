@@ -11,3 +11,4 @@ Using Python directories using pydirectinput and pytesseract
 ![training](https://user-images.githubusercontent.com/65519637/230751695-a3724c14-60e2-4d40-bee7-dfb5aa3cefd6.gif)
 
 
+
