@@ -1,0 +1,4 @@
+stable-baselines3[extra] protobuf==3.20.*
+pydirectinput
+pytesseract
+mss
