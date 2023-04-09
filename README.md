@@ -4,9 +4,11 @@
 
 Get a copy of this project by simply running the git clone command.
 > git clone https://github.com/NitpreetB/Dino.git
+
 Open 
 > chrome://dino
 On you're main computer browser window 
+
 Run 
 > Python train.py
 
