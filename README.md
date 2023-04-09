@@ -7,6 +7,7 @@ Get a copy of this project by simply running the git clone command.
 
 Open 
 > chrome://dino
+
 On you're main computer browser window 
 
 Run 
